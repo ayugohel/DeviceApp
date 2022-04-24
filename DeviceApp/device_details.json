@@ -1,0 +1,85 @@
+{
+    "devices":
+    [
+        {
+            "id": "1",
+            "title": "iPhone 12 mini",
+            "price": 2000,
+            "currency": "USD",
+            "OS": "iOS 15",
+            "status": "Available",
+            "imageUrl": "iphone12mini",
+            "size:": "6.1 inches"
+        },
+        {
+            "id": "2",
+            "title": "iPhone 11",
+            "price": 679,
+            "currency": "USD",
+            "OS": "iOS 14",
+            "status": "Not Available",
+            "imageUrl": "iphone11",
+            "size:": "6.1 inches"
+        },
+        {
+            "id": "3",
+            "title": "iPhone 11 Pro",
+            "price": 1000,
+            "currency": "USD",
+            "OS": "iOS 15",
+            "status": "Available",
+            "imageUrl": "iphone11pro",
+            "size:": "5.8 inches"
+        },
+        {
+            "id": "4",
+            "title": "Samsung Galaxy S22 Ultra",
+            "price": 1789,
+            "currency": "USD",
+            "OS": "Android OS 12",
+            "status": "Not Available",
+            "imageUrl": "s22Ultra",
+            "size:": "5.8 inches"
+        },
+        {
+            "id": "5",
+            "title": "Google Pixel 6 Pro",
+            "price": 1182,
+            "currency": "USD",
+            "OS": "Android OS 12",
+            "status": "Available",
+            "imageUrl": "pixel6",
+            "size:": "5.8 inches"
+        },
+        {
+            "id": "6",
+            "title": "OnePlus 10 Pro 5G",
+            "price": 1149,
+            "currency": "USD",
+            "OS": "Android OS 12",
+            "status": "Available",
+            "imageUrl": "onePlus",
+            "size:": "5.8 inches"
+        },
+        {
+            "id": "7",
+            "title": "iPhone 12",
+            "price": 2000,
+            "currency": "USD",
+            "OS": "iOS 15",
+            "status": "Available",
+            "imageUrl": "iphone12mini",
+            "size:": "6.1 inches"
+        },
+        {
+            "id": "8",
+            "title": "iPhone 13 Pro",
+            "price": 2000,
+            "currency": "USD",
+            "OS": "iOS 15",
+            "status": "Available",
+            "imageUrl": "iphone11",
+            "size:": "6.1 inches"
+        }
+    ]
+}
