@@ -17,7 +17,7 @@ This is a demo for Device data
 
 Currently, the app greets the user with a list of Device data.
 1. Created local json file to use data sourse.
-2. Populating a list of Device items within the main View Controller(iOS) in a list.
+2. Populating a list of Device items within the main View Controller in a list.
 3. Search device titles.
 4. Tapping an device will open a secondary screen with the details.
 5. MVVM architecture used.
